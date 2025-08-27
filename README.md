@@ -1,1 +1,1 @@
-This is a repository containing my public code implementations of pre-established cryptographic algorithms.
+This is a repository containing my public code implementations of pre-established cryptographic algorithms which were covered in an independent study with Dr. Ravi Shankar at James Madison University.
